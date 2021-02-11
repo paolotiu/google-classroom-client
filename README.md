@@ -1,21 +1,24 @@
-# Next.js + Tailwind CSS Example
+# Twin Next Styled Components Template
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This is a starter template for next.js with twin.macro + styled-components + typescript.
 
-## Deploy your own
+This template follows the recommended steps from the [twin.macro documentation](https://github.com/ben-rogerson/twin.examples/tree/master/next-styled-components)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## Installation
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+#####Clone the repo:
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+$ git clone https://github.com/paolotiu17/next.js-twin.macro-typescript.git
+$ cd next-twin-typescript
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+#####Install modules
+
+```bash
+$ yarn install
+#or
+$ npm install
+```
+
+For more information read the twin [documentation](https://github.com/ben-rogerson/twin.examples/tree/master/next-styled-components)
