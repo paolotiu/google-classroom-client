@@ -6,14 +6,14 @@ This template follows the recommended steps from the [twin.macro documentation](
 
 ## Installation
 
-#####Clone the repo:
+##### Clone the repo:
 
 ```bash
 $ git clone https://github.com/paolotiu17/next.js-twin.macro-typescript.git
 $ cd next-twin-typescript
 ```
 
-#####Install modules
+##### Install modules
 
 ```bash
 $ yarn install
