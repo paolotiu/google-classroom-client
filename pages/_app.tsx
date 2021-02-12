@@ -1,6 +1,6 @@
 import { AppProps } from "next/dist/next-server/lib/router/router";
 import GlobalStyles from "components/GlobalStyles";
-
+import { Provider } from "next-auth/client";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
